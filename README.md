@@ -1,9 +1,8 @@
-🏎️ Existe brasileiro na Fórmula 1?
 
-# NomedoProjeto
+# 🏎️ Existe brasileiro na Fórmula 1?
 
-**Número da Lista**: Final 
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 6 <br>
+**Conteúdo da Disciplina**: FINAL<br>
 
 ## Alunos
 |  Matrícula  |            Aluno           |
@@ -12,7 +11,8 @@
 | 15/0150741  |  Victor Alves Gomide       |
 
 ## Sobre 
-Neste trabalho final foi utilizado o merge sort para encontrar pilotos brasileiros em uma base de dados de pilotos da fórmula 1 e gerar um grafo mostrando quem são eles.
+Neste trabalho final foi utilizado o merge sort, ordenando por ordem alfabética os nomes dos pilotos brasileiros em uma base de dados de pilotos da Fórmula 1 e gerar um grafo mostrando quem são eles.
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
