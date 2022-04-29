@@ -1,45 +1,48 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+🏎️ Existe brasileiro na Fórmula 1?
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
+**Número da Lista**: Final 
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+|  Matrícula  |            Aluno           |
+|    --       |             --             |
+| 14/0031634  |  Stefânia Bezerra da Silva |
+| 15/0150741  |  Victor Alves Gomide       |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste trabalho final foi utilizado o merge sort para encontrar pilotos brasileiros em uma base de dados de pilotos da fórmula 1 e gerar um grafo mostrando quem são eles.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python<br>
+**Framework**: nao existe<br>
+
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+- Instalar o python
+`pip install python3`
+
+- Instalar o scipy
+`pip install scipy`
+
+- Instalar o networkx
+`pip install networkx`
+
+- Instalar o matplotlib
+`pip install matplotlib`
+
+- Instalar o pandas
+`pip install pandas`
+
+- Instalar o PIL
+`python3 -m pip install --upgrade Pillow`
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Depois de instalar as dependências acima, o usuário precisará apenas compilar o código no terminal:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
+`python3 main.py`
 
